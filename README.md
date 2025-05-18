@@ -103,7 +103,7 @@ This project is made possible through the collaboration of the following team me
 
 ### Repository:
 
-[🔗 GitHub Repository](https://github.com/Chamaracperera/Caesar-Cipher.git)
+[🔗 GitHub Repository](https://github.com/Chamaracperera/Caesar_Cipher.git)
 
 
 ## 📜 License
