@@ -13,6 +13,7 @@ void CreateQueue(CircularQueue *q) {
         q->count++;
     }
 }
+//encrypt
 char Rotate(CircularQueue *q, char ch, int key) {
     if (!isalpha(ch)) return ch;
     int is_lower = islower(ch);
@@ -29,8 +30,6 @@ void EncryptMessage(CircularQueue *q, char *message, int key) {
     }
     printf("\n");
 }
-
-//Decrypt
 
 int main() {
     CircularQueue q;
